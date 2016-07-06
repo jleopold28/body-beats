@@ -1,0 +1,1 @@
+{SinOsc.ar(MouseX.kr(100,500))}.play
